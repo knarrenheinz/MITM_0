@@ -1,0 +1,648 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="e0v3_data" version="1.3.0" audacityversion="2.3.2" sel0="13.0077916667" sel1="53.4260625000" vpos="0" h="0.0000000000" zoom="17.9123495989" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + samples" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="5 (1)" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="0.707946" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="2324656">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d92.au" len="178436" min="-0.689116" max="0.947339" rms="0.116134"/>
+				</waveblock>
+				<waveblock start="178436">
+					<simpleblockfile filename="e08083de.au" len="262144" min="-0.935675" max="0.978303" rms="0.252316"/>
+				</waveblock>
+				<waveblock start="440580">
+					<simpleblockfile filename="e08085a5.au" len="262144" min="-0.955627" max="0.956257" rms="0.261284"/>
+				</waveblock>
+				<waveblock start="702724">
+					<simpleblockfile filename="e080850f.au" len="262144" min="-0.971752" max="0.967396" rms="0.252797"/>
+				</waveblock>
+				<waveblock start="964868">
+					<simpleblockfile filename="e0808e5c.au" len="262144" min="-0.970184" max="0.965312" rms="0.263479"/>
+				</waveblock>
+				<waveblock start="1227012">
+					<simpleblockfile filename="e0808285.au" len="262144" min="-0.97568" max="0.982807" rms="0.271032"/>
+				</waveblock>
+				<waveblock start="1489156">
+					<simpleblockfile filename="e08089cf.au" len="262144" min="-0.972644" max="0.981537" rms="0.263073"/>
+				</waveblock>
+				<waveblock start="1751300">
+					<simpleblockfile filename="e08084c1.au" len="262144" min="-0.976354" max="0.979791" rms="0.277293"/>
+				</waveblock>
+				<waveblock start="2013444">
+					<simpleblockfile filename="e0808522.au" len="155606" min="-0.963075" max="0.955059" rms="0.280334"/>
+				</waveblock>
+				<waveblock start="2169050">
+					<simpleblockfile filename="e080895a.au" len="155606" min="-0.962872" max="0.975844" rms="0.27705"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="2">
+				<controlpoint t="10.048932944606" val="1.000000000000"/>
+				<controlpoint t="13.454404664723" val="0.267605662346"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="52.71328798" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="572643">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+				<waveblock start="190881">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+				<waveblock start="381762">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="6">
+				<controlpoint t="0.000000000000" val="0.267605662346"/>
+				<controlpoint t="4.565629802397" val="1.014084577560"/>
+				<controlpoint t="8.696857790735" val="1.000000000000"/>
+				<controlpoint t="12.939740589569" val="0.267605662346"/>
+				<controlpoint t="74.355133527697" val="0.267605662346"/>
+				<controlpoint t="74.355133527697" val="1.014084577560"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="65.69839002" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="190881">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="0.267605662346"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="70.02675737" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="190881">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="0.267605662346"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="74.35512472" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="190881">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="3">
+				<controlpoint t="0.000000000000" val="0.267605662346"/>
+				<controlpoint t="1.933024554584" val="0.788732409477"/>
+				<controlpoint t="4.277775574992" val="0.267605662346"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="78.68349206" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="190881">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="0.267605662346"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="83.01185941" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="190881">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="0.267605662346"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="87.34022676" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="190881">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="0.267605662346"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="91.66859410" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="190881">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="0.267605662346"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="95.99696145" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="381762">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+				<waveblock start="190881">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="4">
+				<controlpoint t="0.000000000000" val="0.267605662346"/>
+				<controlpoint t="1.924307353418" val="0.267605662346"/>
+				<controlpoint t="4.408626886945" val="0.830985903740"/>
+				<controlpoint t="6.865032717849" val="0.267605662346"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="104.65369615" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="190881">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="0.267605662346"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="108.98206349" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="190881">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="0.267605662346"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="113.31043084" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="381762">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+				<waveblock start="190881">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="4">
+				<controlpoint t="0.000000000000" val="0.267605662346"/>
+				<controlpoint t="2.950140589569" val="0.281690120697"/>
+				<controlpoint t="4.373739423389" val="0.859154939651"/>
+				<controlpoint t="6.076475283447" val="0.267605662346"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="121.96716553" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="190881">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="0.267605662346"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="126.29553288" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="190881">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="0.267605662346"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="130.62390023" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="190881">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="0.267605662346"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="134.95226757" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="190881">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="0.267605662346"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="139.28063492" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="190881">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="3">
+				<controlpoint t="0.000000000000" val="0.267605662346"/>
+				<controlpoint t="2.269751085196" val="0.760563373566"/>
+				<controlpoint t="4.328376158082" val="0.253521084785"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="143.60900227" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="190881">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="0.267605662346"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="147.93736961" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="190881">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="0.267605662346"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="152.26573696" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="190881">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="0.267605662346"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="156.59410431" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="190881">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="0.267605662346"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="160.92247166" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="190881">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="0.267605662346"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="165.25083900" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="190881">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="0.267605662346"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="169.57920635" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="190881">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="0.267605662346"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="173.90757370" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="381762">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+				<waveblock start="190881">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="5">
+				<controlpoint t="0.000000000000" val="0.267605662346"/>
+				<controlpoint t="2.255803563330" val="0.267605662346"/>
+				<controlpoint t="4.321417557500" val="0.816901445389"/>
+				<controlpoint t="6.135808228053" val="0.267605662346"/>
+				<controlpoint t="8.656734693878" val="0.267605662346"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="182.56430839" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="190881">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="0.267605662346"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="186.89267574" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="190881">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="0.267605662346"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="191.22104308" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="190881">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="0.267605662346"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="195.54941043" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="381762">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+				<waveblock start="190881">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="7">
+				<controlpoint t="0.000000000000" val="0.267605662346"/>
+				<controlpoint t="2.414568577908" val="1.000000000000"/>
+				<controlpoint t="4.328367346939" val="1.000000000000"/>
+				<controlpoint t="4.328367346939" val="1.000000000000"/>
+				<controlpoint t="7.439035050211" val="0.281690120697"/>
+				<controlpoint t="208.534521282798" val="0.281690120697"/>
+				<controlpoint t="208.534521282798" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="212.86287982" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="939631">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808293.au" len="140889" min="-0.970367" max="0.973648" rms="0.290077"/>
+				</waveblock>
+				<waveblock start="140889">
+					<simpleblockfile filename="e0808f27.au" len="160278" min="-0.949314" max="0.971327" rms="0.307554"/>
+				</waveblock>
+				<waveblock start="301167">
+					<simpleblockfile filename="e0808abe.au" len="262144" min="-0.987903" max="0.977852" rms="0.297605"/>
+				</waveblock>
+				<waveblock start="563311">
+					<simpleblockfile filename="e080821e.au" len="262144" min="-0.966683" max="0.994052" rms="0.178834"/>
+				</waveblock>
+				<waveblock start="825455">
+					<simpleblockfile filename="e0808ad4.au" len="114176" min="-0.004473" max="0.003707" rms="0.000949"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="3">
+				<controlpoint t="0.000000000000" val="0.267605662346"/>
+				<controlpoint t="1.626011143505" val="0.281690120697"/>
+				<controlpoint t="5.757239131844" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="204.20614512" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="190881">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="0.267605662346"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="208.53451247" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="190881">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d75.au" len="190881" min="-0.964403" max="0.956678" rms="0.237852"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="0.267605662346"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Intro_lvl" channel="2" linked="0" mute="0" solo="0" height="90" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="13.00779167" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1448907">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808114.au" len="215762" min="-0.669764" max="0.532336" rms="0.049369"/>
+				</waveblock>
+				<waveblock start="215762">
+					<simpleblockfile filename="e0808a0f.au" len="262144" min="-0.000629" max="0.000629" rms="0.000097"/>
+				</waveblock>
+				<waveblock start="477906">
+					<simpleblockfile filename="e0808277.au" len="262144" min="-0.000636" max="0.000636" rms="0.000091"/>
+				</waveblock>
+				<waveblock start="740050">
+					<simpleblockfile filename="e08081c7.au" len="216251" min="-0.534239" max="0.495408" rms="0.04362"/>
+				</waveblock>
+				<waveblock start="956301">
+					<simpleblockfile filename="e0808a95.au" len="262144" min="-0.891024" max="0.718481" rms="0.11393"/>
+				</waveblock>
+				<waveblock start="1218445">
+					<simpleblockfile filename="e08082f0.au" len="230462" min="-0.891869" max="0.641081" rms="0.110914"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="30.185549043333" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="43.85670834" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="459329">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808494.au" len="146913" min="-0.878005" max="0.676821" rms="0.105882"/>
+				</waveblock>
+				<waveblock start="146913">
+					<simpleblockfile filename="e0808e73.au" len="146913" min="-0.886308" max="0.498033" rms="0.112147"/>
+				</waveblock>
+				<waveblock start="293826">
+					<simpleblockfile filename="e0808fb0.au" len="165503" min="-0.637982" max="0.548472" rms="0.100254"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="202.80871528" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="595594">
+				<waveblock start="0">
+					<simpleblockfile filename="e080882e.au" len="197094" min="-0.863006" max="0.831774" rms="0.124779"/>
+				</waveblock>
+				<waveblock start="197094">
+					<simpleblockfile filename="e080814c.au" len="235546" min="-0.881461" max="0.479828" rms="0.081894"/>
+				</waveblock>
+				<waveblock start="432640">
+					<simpleblockfile filename="e0808e8f.au" len="162954" min="-0.001025" max="0.001038" rms="0.000087"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Intro_lvl" channel="2" linked="0" mute="0" solo="0" height="84" minimized="0" isSelected="1" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="13.00779167" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1940077">
+				<waveblock start="0">
+					<simpleblockfile filename="e08085c8.au" len="215762" min="-0.52132" max="0.691795" rms="0.086637"/>
+				</waveblock>
+				<waveblock start="215762">
+					<simpleblockfile filename="e0808af6.au" len="262144" min="-0.802743" max="0.836931" rms="0.125829"/>
+				</waveblock>
+				<waveblock start="477906">
+					<simpleblockfile filename="e0808e58.au" len="262144" min="-0.62732" max="0.886787" rms="0.111912"/>
+				</waveblock>
+				<waveblock start="740050">
+					<simpleblockfile filename="e0808784.au" len="216251" min="-0.731499" max="0.764931" rms="0.092827"/>
+				</waveblock>
+				<waveblock start="956301">
+					<simpleblockfile filename="e08085ca.au" len="262144" min="-0.00023" max="0.000268" rms="0.000056"/>
+				</waveblock>
+				<waveblock start="1218445">
+					<simpleblockfile filename="e0808a63.au" len="262144" min="-0.000606" max="0.000583" rms="0.000061"/>
+				</waveblock>
+				<waveblock start="1480589">
+					<simpleblockfile filename="e0808001.au" len="262144" min="-0.000399" max="0.000399" rms="0.000054"/>
+				</waveblock>
+				<waveblock start="1742733">
+					<simpleblockfile filename="e08087e4.au" len="197344" min="-0.001441" max="0.001295" rms="0.000115"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="202.80871528" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="595594">
+				<waveblock start="0">
+					<simpleblockfile filename="e08081c3.au" len="197094" min="-0.000866" max="0.000866" rms="0.00007"/>
+				</waveblock>
+				<waveblock start="197094">
+					<simpleblockfile filename="e08080c4.au" len="235546" min="-0.775579" max="0.893766" rms="0.085456"/>
+				</waveblock>
+				<waveblock start="432640">
+					<simpleblockfile filename="e0808526.au" len="162954" min="-0.609685" max="0.889332" rms="0.098973"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="episode 1_lvl" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="65.69839002" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="435514">
+				<waveblock start="0">
+					<simpleblockfile filename="e08082a7.au" len="262144" min="-0.804504" max="0.888672" rms="0.126297"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808c94.au" len="173370" min="-0.561432" max="0.891235" rms="0.101644"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="78.68349206" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="960538">
+				<waveblock start="0">
+					<simpleblockfile filename="e08080f1.au" len="230511" min="-0.694163" max="0.808321" rms="0.105354"/>
+				</waveblock>
+				<waveblock start="230511">
+					<simpleblockfile filename="e08086a6.au" len="262144" min="-0.632544" max="0.89103" rms="0.106022"/>
+				</waveblock>
+				<waveblock start="492655">
+					<simpleblockfile filename="e0808482.au" len="220519" min="-0.745784" max="0.734342" rms="0.103486"/>
+				</waveblock>
+				<waveblock start="713174">
+					<simpleblockfile filename="e08085a8.au" len="247364" min="-0.621232" max="0.822492" rms="0.115758"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="20.011189403786" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="102.55493751" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="661355">
+				<waveblock start="0">
+					<simpleblockfile filename="e08084c9.au" len="195795" min="-0.730078" max="0.652447" rms="0.133751"/>
+				</waveblock>
+				<waveblock start="195795">
+					<simpleblockfile filename="e0808ee5.au" len="131072" min="-0.891379" max="0.736698" rms="0.132193"/>
+				</waveblock>
+				<waveblock start="326867">
+					<simpleblockfile filename="e0808a56.au" len="208406" min="-0.820034" max="0.779189" rms="0.119405"/>
+				</waveblock>
+				<waveblock start="535273">
+					<simpleblockfile filename="e08088c0.au" len="126082" min="-0.892024" max="0.588434" rms="0.102745"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="119.91727257" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="944309">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808c5c.au" len="262144" min="-0.551849" max="0.891235" rms="0.11539"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808fa8.au" len="222110" min="-0.678589" max="0.891235" rms="0.124692"/>
+				</waveblock>
+				<waveblock start="484254">
+					<simpleblockfile filename="e08080f2.au" len="234903" min="-0.713013" max="0.891235" rms="0.123281"/>
+				</waveblock>
+				<waveblock start="719157">
+					<simpleblockfile filename="e080845c.au" len="225152" min="-0.690704" max="0.891235" rms="0.117896"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="142.86232969" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1600033">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808549.au" len="175684" min="-0.576345" max="0.736158" rms="0.108562"/>
+				</waveblock>
+				<waveblock start="175684">
+					<simpleblockfile filename="e08085eb.au" len="175685" min="-0.718495" max="0.735988" rms="0.124806"/>
+				</waveblock>
+				<waveblock start="351369">
+					<simpleblockfile filename="e0808302.au" len="262144" min="-0.598719" max="0.680097" rms="0.122986"/>
+				</waveblock>
+				<waveblock start="613513">
+					<simpleblockfile filename="e0808b28.au" len="226878" min="-0.626675" max="0.797488" rms="0.119581"/>
+				</waveblock>
+				<waveblock start="840391">
+					<simpleblockfile filename="e0808758.au" len="220791" min="-0.510537" max="0.60711" rms="0.120841"/>
+				</waveblock>
+				<waveblock start="1061182">
+					<simpleblockfile filename="e080842b.au" len="262144" min="-0.457665" max="0.635277" rms="0.122242"/>
+				</waveblock>
+				<waveblock start="1323326">
+					<simpleblockfile filename="e080839e.au" len="138353" min="-0.409883" max="0.527012" rms="0.119581"/>
+				</waveblock>
+				<waveblock start="1461679">
+					<simpleblockfile filename="e0808d43.au" len="138354" min="-0.613703" max="0.683641" rms="0.11243"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="179.87590191" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="833335">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808325.au" len="262144" min="-0.813751" max="0.810303" rms="0.116897"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e08080b6.au" len="262144" min="-0.570892" max="0.891235" rms="0.111634"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0808b53.au" len="262144" min="-0.698456" max="0.875153" rms="0.117133"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e0808bac.au" len="46903" min="-0.540619" max="0.883148" rms="0.11631"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<labeltrack name="Label Track" numlabels="10" height="73" minimized="0" isSelected="1">
+		<label t="0.0000000000" t1="65.6983900227" title="intro theme"/>
+		<label t="13.0077916667" t1="53.4260625000" title="Intro vocals"/>
+		<label t="65.6983900227" t1="74.7715983560" title="e1"/>
+		<label t="78.6834920635" t1="98.6947003968" title="e2.1"/>
+		<label t="102.5549375121" t1="116.3331666788" title="2.2"/>
+		<label t="119.9172725705" t1="139.5903767371" title="e3"/>
+		<label t="142.8623296890" t1="176.1963505224" title="e6"/>
+		<label t="179.8759019072" t1="197.2370477405" title="e7"/>
+		<label t="202.8087152778" t1="215.2169236111" title="outro vocals"/>
+		<label t="212.8628798186" t1="234.1697052154" title="outro theme"/>
+	</labeltrack>
+</project>
